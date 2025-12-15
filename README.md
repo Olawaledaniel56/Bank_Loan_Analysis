@@ -85,5 +85,3 @@ The dashboard is fully interactive, enabling users to drill down into specific i
 ---
 
 
-* Add **KPIs examples** to make it stronger for recruiters
-* Write a **project description** for your resume or LinkedIn 🚀
