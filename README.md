@@ -1,32 +1,89 @@
-BANK LOAN ANALYSIS
-Overview - This project focuses on analyzing bank loan data to uncover insights related to loan performance, customer behavior, and risk patterns. The analysis was conducted using Power BI, covering the complete data analytics workflow from raw data ingestion to dashboard development and presentation of insights. The goal of this project is to demonstrate practical skills in data cleaning, exploratory data analysis (EDA), data visualization, and business reporting.
 
-DATASET - Source: CSV dataset from Kaggle. Rows: 38,576. Columns: 24. 
-Description: The dataset contains customer demographics, loan details, and repayment information used to evaluate loan trends, defaults, and overall portfolio performance.
 
-TOOLS & TECHNIQUES 
-Power BI – Data modeling, EDA, and dashboard development
-Power Query – Data cleaning and transformation
-Gamma – Creating a professional presentation (PPT) 
-CSV File – Raw data source
+# 📊 Bank Loan Data Analytics Project
 
-PROJECT STEPS
-Data Loading Imported the CSV dataset into Power BI. 
-Data Cleaning & Transformation Handled missing and inconsistent values. Corrected data types and standardized fields using Power Query. Ensured overall data quality and reliability.
-Exploratory Data Analysis (EDA) - Analyzed distributions, trends, and relationships between variables. Identified some key metrics such as total loan applications, total loan payments, total loan amount, interest rate, dti, employment length, address state, status, grade and purpose. 
-Data Modelling - Created calculated measures and KPIs for analysis.
+## Overview
 
-DASHBOARD DEVELOPMENT - Built an interactive Power BI dashboard with filters and slicers. Visualized loan performance, risk metrics, and customer insights.
+This project focuses on analyzing bank loan data to uncover insights related to loan performance, customer behavior, and risk patterns. The analysis was conducted using **Power BI**, covering the complete data analytics workflow—from raw data ingestion to dashboard development and presentation of insights.
 
-REPORTING & PRESENTATION – 
-Created a detailed analytical report. 
-Developed a presentation using Gamma to communicate insights clearly.
+The goal of this project is to demonstrate practical skills in **data cleaning, exploratory data analysis (EDA), data visualization, and business reporting**.
 
-DASHBOARD - The Power BI dashboard includes: Key performance indicators (KPIs), Loan status analysis, Trends and comparisons across loan categories The dashboard is fully interactive, enabling users to drill down into specific insights.
+---
 
-RESULTS & INSIGHTS  
-Identified patterns in loan defaults and repayments. 
-Highlighted high-risk customer segments. 
-Provided actionable insights to support better lending decisions. 
-Delivered clear visual storytelling for both technical and non-technical stakeholders.
+## Dataset
 
+* **Source:** CSV dataset from Kaggle
+* **Rows:** 38,576
+* **Columns:** 24
+* **Description:**
+  The dataset contains customer demographics, loan details, and repayment information used to evaluate loan trends, defaults, and overall portfolio performance.
+
+---
+
+## Tools & Technologies
+
+* **Power BI** – Data modeling, EDA, and dashboard development
+* **Power Query** – Data cleaning and transformation
+* **Gamma** – Creating a professional presentation (PPT)
+* **CSV File** – Raw data source
+
+---
+
+## Project Steps
+
+1. **Data Loading**
+
+   * Imported the CSV dataset into Power BI.
+
+2. **Exploratory Data Analysis (EDA)**
+
+   * Analyzed distributions, trends, and relationships between variables.
+   * Identified some key metrics such as loan amounts, total payments, issue date, employment length, address state, status, grade, interest rate, dti, term and purpose.
+
+3. **Data Cleaning & Transformation**
+
+   * Handled missing and inconsistent values.
+   * Corrected data types and standardized fields using **Power Query**.
+   * Ensured overall data quality and reliability.
+
+4. **Data Modeling**
+
+   * Created calculated measures and KPIs for analysis.
+
+5. **Dashboard Development**
+
+   * Built an interactive Power BI dashboard with filters and slicers.
+   * Visualized loan performance, risk metrics, and customer insights.
+
+6. **Reporting & Presentation**
+
+   * Created a detailed analytical report.
+   * Developed a presentation using **Gamma** to communicate insights clearly.
+
+---
+
+## Dashboard
+
+The Power BI dashboard includes:
+
+* Key performance indicators (KPIs)
+* Loan status analysis
+* Customer segmentation
+* Trends and comparisons across loan categories
+
+The dashboard is fully interactive, enabling users to drill down into specific insights.
+
+---
+
+## Results & Insights
+
+* Identified patterns in loan defaults and repayments.
+* Highlighted high-risk customer segments.
+* Provided actionable insights to support better lending decisions.
+* Delivered clear visual storytelling for both technical and non-technical stakeholders.
+
+---
+
+
+* Add **KPIs examples** to make it stronger for recruiters
+* Write a **project description** for your resume or LinkedIn 🚀
